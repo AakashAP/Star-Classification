@@ -13,7 +13,7 @@ A Publicly Available Dataset was used for Training and Testing. The Dataset comp
 
 ### DIRECTORY STRUCTURE
 
-**Dataset/Dataset.csv** - The Dataset leveraged for Empirical Assessment
+**Dataset/Dataset.csv** - The Dataset leveraged for Empirical Assessment <br>
 **Notebook.ipynb** - The Primary Notebook containing the Actual Code
 
 ### DEPENDENCIES
@@ -26,7 +26,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 ## MODEL DETAILS
 
-**Model Training & Evaluation**
+**Model Training & Evaluation** <br>
   There are Total of 3 Machine Learning Models
   - Support Vector Machine (SVM)
   - KNeighbor Classifier (KNN)
@@ -34,7 +34,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
   I Have Used **Accuracy**, **Precision**, **Recall**, **Confusion Matrix** and **Classification Report** to Evaluate our Model
 
-**Results**
+**Results** <br>
   The Resulted Accuracy obtained with Different Models
   - Support Vector Machine (SVM) -> 96.2%
   - KNeighbor Classifier (KNN) -> 93.5%
@@ -46,11 +46,11 @@ The **Random Forest Classifier** Stands Out by Outperforming Other Models with 9
 
 ## GETTING STARTED
 
-**Clone the Repository**
+**Clone the Repository** <br>
   Clone the Repository to your Local Machine
   ```bash
   git clone https://github.com/AakashAP/Star-Classification.git
   ```
 
-**Open in Code Editor**
+**Open in Code Editor** <br>
   Navigate to the Project Folder and Open it in Jupyter Notebook and Execute in Sequential Order
